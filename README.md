@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @UJKC
-- 🌱 I am a college student in SJB Institute of Technology ( 3nd semester).
-- 👀 I’m interested in full stack developement and open source projects.
+- 🌱 I am a college student in SJB Institute of Technology ( 4th semester).
+- 👀 I’m interested in full stack developement, open source projects and blockchain.
 - 🌱 I’m currently learning front end side, still on basic HTML, CSS, JS.
-- ✨ Will look shortly on learning back end and data analytics.
-- 💞️ I’m looking to collaborate on front end applications.
+- ✨ I also work on back-end with C, C++, Python, Java
+- ✨ Will look shortly on learning data analytics.
+- 💞️ I’m looking to collaborate.
 - 📫 To reach me please email me on ujwalkcsps@gmail.com
-- 📫 Currently I dont have linked In profile so please get in touch with me through my above mentioned email. Shortly I will be creating it.
+- 📫 LinkedIn - www.linkedin.com/in/ujwal-kc-791441262
+- 💞️
 
 
 My Projects
@@ -32,6 +34,8 @@ My Projects
   sort.c - Binary Sort
   std.c - Standard Deviation 
   struct.c - Student details using structures
+
+2. 100 days of Python Code
 
 <!---
 UJKC/UJKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
