@@ -29,6 +29,7 @@ My Projects
 1. VTU_owns
 
   This repository contains many important algorithms and programs that are must for VTU college students.
+  
   aot.c - Area of Triangle
   bill.c - Electricity Bill
   bs.c - Binary Search
@@ -50,6 +51,32 @@ My Projects
   struct.c - Student details using structures
 
 2. 100 days of Python Code
+
+  This contains 100 days worth of python learning materials. Please correct me if you have any suggestions or correct my code in any way is appreciated.
+
+3. Kryptostay
+
+  Cryptostay is a hotel payment platform that leverages cryptocurrencies and blockchain technology to simplify and enhance the hotel booking and payment experience for travelers, offering benefits to both travelers and hotels in the hospitality sector.
+  
+4. International Travel Advisor
+
+  This project represents a significant step forward in supporting Indian workers and students who aspire to work or study abroad. By providing comprehensive information, legal assistance, and a secure financial platform, we aim to empower Indian travelers while fostering positive relations and dispelling stereotypes. Our commitment to ensuring the safety, security, and success of Indian expatriates aligns with the spirit of global cooperation and opportunity.
+  
+5. Blockchain Risk Advisor
+
+  This project involves informing the stakeholders on potential risk in investing in blockchain and predicting prices for cryptocurrency.
+  
+6. Luxury Hotel
+
+  This project is static website for Luxury Hotel.
+  
+7. 3d TechSol
+
+  This project is imaginary company for promoting 3D printed projects.
+  
+8. Python for Machine Learning and Data Science Bootcamp
+
+  This involves various machine learninfg coding for deep understanding of Machine learning and Data Science.
 
 <!---
 UJKC/UJKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
