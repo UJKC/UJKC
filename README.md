@@ -85,7 +85,11 @@
 
 **10. Shell Scripting**
 
-  CShell Scripting Projects.
+  Shell Scripting Projects.
+
+**11. Build Blockchain**
+
+  Building blockchain
 
 <!---
 UJKC/UJKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
