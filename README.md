@@ -39,7 +39,7 @@ Here are some of my favorite works — check them out on GitHub:
 
 | Project | Description |
 |---------|-------------|
-| **[Japanese Assistant]([https://github.com/UJKC/Copier](https://github.com/UJKC/Japanese-Assistant))** | Mobile Application to help learners learn Japanese. |
+| **[Japanese Assistant](https://github.com/UJKC/Japanese-Assistant)** | Mobile Application to help learners learn Japanese. |
 | **[Air India Maharaja](https://github.com/UJKC/Air-India-Maharaja-Salesforce-Manager)** | Well defined Salesforce application solution for Airlines business Industry. |
 | **[Copier](https://github.com/UJKC/Copier)** | Cross-platform desktop app to store key-value pairs for quick copy-paste. |
 | **[E-commerce Dashboard](https://github.com/UJKC/E_commerce_dashboard)** | Admin dashboard for an e-commerce store. |
