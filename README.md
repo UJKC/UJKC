@@ -37,21 +37,23 @@ I thrive at:
 ## 🚀 Featured Projects
 Here are some of my favorite works — check them out on GitHub:
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[Copier](https://github.com/UJKC/Copier)** | Cross-platform desktop app to store key-value pairs for quick copy-paste. | 🔗 |
-| **[E-commerce Dashboard](https://github.com/UJKC/E_commerce_dashboard)** | Admin dashboard for an e-commerce store. | 🔗 |
-| **[Finance App](https://github.com/UJKC/Finance-App-Next)** | Personal finance tracking app built with Next.js. | 🔗 |
-| **[Kryptostay](https://github.com/UJKC/Kryptostay)** | Blockchain-based hotel booking platform. | 🔗 |
-| **[SpringBoot Microservices Template](https://github.com/UJKC/SpringBoot-Microservices)** | Fully scalable Spring Boot microservices architecture. | 🔗 |
-| **[Wedding RSVP App](https://github.com/UJKC/Wedding-RSVP-App)** | Flutter app for wedding RSVP management. | 🔗 |
+| Project | Description |
+|---------|-------------|
+| **[Japanese Assistant]([https://github.com/UJKC/Copier](https://github.com/UJKC/Japanese-Assistant))** | Mobile Application to help learners learn Japanese. |
+| **[Air India Maharaja](https://github.com/UJKC/Air-India-Maharaja-Salesforce-Manager)** | Well defined Salesforce application solution for Airlines business Industry. |
+| **[Copier](https://github.com/UJKC/Copier)** | Cross-platform desktop app to store key-value pairs for quick copy-paste. |
+| **[E-commerce Dashboard](https://github.com/UJKC/E_commerce_dashboard)** | Admin dashboard for an e-commerce store. |
+| **[Finance App](https://github.com/UJKC/Finance-App-Next)** | Personal finance tracking app built with Next.js. |
+| **[Kryptostay](https://github.com/UJKC/Kryptostay)** | Blockchain-based hotel booking platform. |
+| **[SpringBoot Microservices Template](https://github.com/UJKC/SpringBoot-Microservices)** | Fully scalable Spring Boot microservices architecture. |
+| **[Wedding RSVP App](https://github.com/UJKC/Wedding-RSVP-App)** | Flutter app for wedding RSVP management. |
 
 *See more at [my GitHub profile →](https://github.com/UJKC)*
 
 ---
 
 ## 📜 Work Experience
-- **LTIMindtree** — Salesforce Admin & Developer Intern *(Jun 2025 – Present)*
+- **LTIMindtree** — Graduate Trainee *(Jun 2025 – Present)*
 - **Netscout Systems** — Built Search & Discover component for network attributes *(Jan 2025 – Apr 2025)*
 - **Einfochips** — Built CRM from scratch *(Sep 2024 – Nov 2024)*
 
